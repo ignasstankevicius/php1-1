@@ -6,7 +6,7 @@
 </head>
 <body>
 <?php
-
+dddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd
     if(isset($_POST)) {
     $vardas = $_POST['vardas'];
     $amzius = $_POST['amzius'];
